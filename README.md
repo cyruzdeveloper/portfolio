@@ -38,6 +38,6 @@ Welcome to my **Personal Portfolio Website** — a modern, responsive, and inter
 
 **👨‍💻 Author**
 **Cyruz Dave Juanites**
-💼 Portfolio: yourportfolio.com
-🐙 GitHub: [github.com/yourusername](https://github.com/cyruzwebdeve) real github
-💬 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/cyruz-juanites-/)
+- 💼 Portfolio: yourportfolio.com
+- 🐙 [GitHub:] (https://github.com/cyruzwebdeve)
+- 💬 [LinkedIn:] (https://www.linkedin.com/in/cyruz-juanites-/)
