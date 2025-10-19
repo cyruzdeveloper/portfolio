@@ -17,27 +17,27 @@ Welcome to my **Personal Portfolio Website** — a modern, responsive, and inter
 
 ---
 
-🧩 Tech Stack
+**🧩 Tech Stack**
 
-Frontend
+**Frontend**
 - HTML5  
 - CSS3  
 - JavaScript  
 - TailwindCSS  
 
-Backend
+**Backend**
 - JavaScript  
 - PHP  
 
-Database
+**Database**
 - MySQL  
 
-Tools & Frameworks
+**Tools & Frameworks**
 - GitHub  
 - Figma  
 
-👨‍💻 Author
-[Your Name]
+**👨‍💻 Author**
+**Cyruz Dave Juanites**
 💼 Portfolio: yourportfolio.com
-🐙 GitHub: github.com/yourusername
-💬 LinkedIn: linkedin.com/in/yourusername
+🐙 GitHub: [github.com/yourusername](https://github.com/cyruzwebdeve) real github
+💬 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/cyruz-juanites-/)
