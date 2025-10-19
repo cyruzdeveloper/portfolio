@@ -39,5 +39,5 @@ Welcome to my **Personal Portfolio Website** — a modern, responsive, and inter
 **👨‍💻 Author**
 **Cyruz Dave Juanites**
 - 💼 Portfolio: yourportfolio.com
-- 🐙 [GitHub:](https://github.com/cyruzwebdeve)
-- 💬 [LinkedIn:](https://www.linkedin.com/in/cyruz-juanites-/)
+- 🐙 [GitHub](https://github.com/cyruzwebdeve)
+- 💬 [LinkedIn](https://www.linkedin.com/in/cyruz-juanites-/)
